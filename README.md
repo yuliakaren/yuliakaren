@@ -1,4 +1,4 @@
-<h1> Hey, nice to see you.</h1>
+<h1> Hey, my name is Yulia Karen. I'm an Information Technology student at Telkom University</h1>
 
 <p align="left">
 
@@ -22,4 +22,4 @@ yuliakaren/yuliakaren is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
---->
+

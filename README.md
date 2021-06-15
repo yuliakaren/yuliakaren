@@ -1,7 +1,6 @@
-<h1> 👋 Hi, my name is Yulia Karen.
-  I'm an Information Technology student at Telkom University</h1>
+<h1> 👋 Hi, my name is Yulia Karen.</h1>
 
-
+I'm an Information Technology student at Telkom University
 
 
 <!---

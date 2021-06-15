@@ -1,11 +1,6 @@
-<h1> Hey, my name is Yulia Karen. I'm an Information Technology student at Telkom University</h1>
+<h1> 👋 Hi, my name is Yulia Karen.
+  I'm an Information Technology student at Telkom University</h1>
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/yulia-karen-4450a0201/" target="_blank"><img height="30" src="https://github.com/yuliakaren/yuliakaren/blob/main/download%20(2).png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-</p>
 
 
 
